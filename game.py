@@ -32,6 +32,7 @@ PLAY_SCENE = 1
 GAME_OVER_SCENE = 2
 
 # The classes used in the game
+# 新しい情報を追加しました。
  
 class Cannon(Actor):
     def __init__(self, sprite, position):

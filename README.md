@@ -13,3 +13,5 @@ Credits for efx sounds from SoundBible.com
 - [loser sound](http://soundbible.com/1810-Wind.html)
 
 [Space Invaders sounds](http://samples.mameworld.info/Unofficial%20Samples.htm)
+
+新しい情報を編集しました。
